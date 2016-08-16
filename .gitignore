@@ -1,0 +1,9 @@
+# vim 
+*.swp
+
+# python
+*.pyc
+
+# database
+db.sqlite3
+
